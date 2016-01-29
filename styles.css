@@ -5,9 +5,11 @@
 
 #container {
 	width: 970px;
-	background-color: grey;
+	background-color: blue;
+	height: 500px;
 }
 
-	#container h1, p {
+	#container h1, h2, p {
 		color: white;
+		margin: 5px;
 	}
